@@ -34,6 +34,7 @@ const bici:Bicicleta = {
       `);
   }
 }
+bici.mostrarInfo();
 
 
 
